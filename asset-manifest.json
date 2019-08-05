@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LIM009-FE-burger-queen-api-client/static/css/main.847e338f.chunk.css",
+    "main.js": "/LIM009-FE-burger-queen-api-client/static/js/main.a04619fe.chunk.js",
+    "main.js.map": "/LIM009-FE-burger-queen-api-client/static/js/main.a04619fe.chunk.js.map",
+    "runtime~main.js": "/LIM009-FE-burger-queen-api-client/static/js/runtime~main.0e20135b.js",
+    "runtime~main.js.map": "/LIM009-FE-burger-queen-api-client/static/js/runtime~main.0e20135b.js.map",
+    "static/js/2.34ce1da2.chunk.js": "/LIM009-FE-burger-queen-api-client/static/js/2.34ce1da2.chunk.js",
+    "static/js/2.34ce1da2.chunk.js.map": "/LIM009-FE-burger-queen-api-client/static/js/2.34ce1da2.chunk.js.map",
+    "index.html": "/LIM009-FE-burger-queen-api-client/index.html",
+    "precache-manifest.5afedc87a0d481b4faf40471e4cc928c.js": "/LIM009-FE-burger-queen-api-client/precache-manifest.5afedc87a0d481b4faf40471e4cc928c.js",
+    "service-worker.js": "/LIM009-FE-burger-queen-api-client/service-worker.js",
+    "static/css/main.847e338f.chunk.css.map": "/LIM009-FE-burger-queen-api-client/static/css/main.847e338f.chunk.css.map",
+    "static/media/bq.png": "/LIM009-FE-burger-queen-api-client/static/media/bq.ca5340c0.png",
+    "static/media/breakfast-menu.jpg": "/LIM009-FE-burger-queen-api-client/static/media/breakfast-menu.8a0caf5d.jpg",
+    "static/media/hamburger.png": "/LIM009-FE-burger-queen-api-client/static/media/hamburger.b072de2a.png",
+    "static/media/lunch-menu.png": "/LIM009-FE-burger-queen-api-client/static/media/lunch-menu.35c633a8.png"
+  }
+}
