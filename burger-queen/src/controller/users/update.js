@@ -13,7 +13,7 @@ const editUser = (id, token, email, password, admin) => {
       return Promise.reject({ message: 'Es necesario ingresar email y/o contraseña' })
     } else if (resp.status === 401) {
       return Promise.reject({ message: 'No existe token válido' })
-    } else if (resp.status === 401) {
+    } else if (resp.status === 403) {
       return Promise.reject({ message: 'Es necesario ser administrador para realizar esta acción' })
     } else if (resp.status === 404) {
       return Promise.reject({ message: 'Usuario solicitado no existe' })
