@@ -22,7 +22,7 @@ const Add = () => {
   return (
     <form data-testid="form" onSubmit={(e) => submit(e)} >
       <div className="form-group">
-        <label data-testid="email" tmlFor="email">Email:</label>
+        <label data-testid="email" htmlFor="email">Email:</label>
         <input data-testid="emailInput" value={email} onChange={(e) => setEmail(e.target.value)} id="email" type="email" />
       </div>
       <div className="form-group">
